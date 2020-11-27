@@ -50,7 +50,7 @@ function ajaxUpdate(url, element) {
     ajax.onload = function () {
  
         let responseJson = JSON.parse(ajax.response);
-        if(responseJson.dataNum == 0 && responseJson.dataNum + dataNum != 0) return;
+        // if(responseJson.dataNum == 0 && responseJson.dataNum + dataNum != 0) return;
         dataNum = responseJson.dataNum;
         happyCount = responseJson.happyCount;
         console.log(dataNum);
