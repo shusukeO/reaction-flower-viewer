@@ -8,3 +8,6 @@ reaction flowerのviewerです。接続している数、お花のキャラク�
 {"dataNum":0,"happyCount":0}
 ```
 この形のjsonが返ってくるapiを作成したので、それの活用例です。
+
+## アクセス
+https://shusukeo.github.io/reaction-flower-viewer/
