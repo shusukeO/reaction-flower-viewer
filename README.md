@@ -11,3 +11,11 @@ reaction flowerのviewerです。接続している数、お花のキャラク�
 
 ## アクセス
 https://shusukeo.github.io/reaction-flower-viewer/
+
+## 参考文献
+
+* 上部固定ヘッダをつくる https://qiita.com/7note/items/6bcadabe1667919bc26c
+* aタグのダサい下線を消す方法 https://techacademy.jp/magazine/21239
+* imageMode(CENTER)でp5jsの物体を中心座標で管理できる https://p5js.org/reference/#/p5/imageMode
+* JSONパース https://techacademy.jp/magazine/27722
+* ajaxでDOM更新 https://www.sejuku.net/blog/25316
